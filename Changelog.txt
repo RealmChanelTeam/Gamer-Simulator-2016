@@ -1,5 +1,6 @@
 Version 0.3.0*:
 Playable games
+Fake In-Game Ads
 --------------
 Version 0.2.3:
 Bugfixes:
